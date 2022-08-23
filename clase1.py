@@ -8,3 +8,7 @@ print(())
 
 variable=10.1
 print("Variable= ",variable)
+
+#Usuario git: git config --global user.name ""
+#Email git: git config --global user.email ""
+#Solo se avanzó en el hola mundo
